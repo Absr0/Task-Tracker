@@ -75,6 +75,3 @@ Task data saved in localStorage
 Statistics page using React Router
 Responsive design
 
-Just tell me 😄
-
-Is this conversation helpful so far?
